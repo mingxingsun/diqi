@@ -5,5 +5,6 @@ public class Hell {
         System.out.println(555);
         System.out.println(6666);
         System.out.println(7777);
+        System.out.println(8888);
     }
 }
